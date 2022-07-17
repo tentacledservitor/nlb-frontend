@@ -1,0 +1,269 @@
+body
+{
+	background: #101010;
+	color: #d0d0d0;
+	font-family: 'PT Serif', serif;
+	font-size: 24px;
+}
+
+a
+{
+	text-decoration: none;
+	color: #ffffff;
+}
+
+a:focus
+{
+	border-bottom: 1px solid;
+}
+
+a:hover
+{
+	border-bottom: 1px solid;
+}
+
+a:active
+{
+	border-bottom: 1px solid;
+}
+
+.stat
+{
+	color: #606060;
+}
+
+table
+{
+	table-layout: fixed,
+	width: 100%;
+	border-collapse: collapse;
+	border: 3px solid white;
+}
+
+.blanktable
+{
+	border: none;
+}
+
+tbody
+{
+	background-color: #181818;
+}
+
+thead
+{
+	background-color: #282828;
+}
+
+th
+{
+	text-align: center;
+}
+
+td
+{
+	padding: 10px;
+	vertical-align: top;
+}
+
+table.gametable td:nth-child(1)
+{
+	width: 25%;
+}
+
+table.gametable td:nth-child(2)
+{
+	width: 25%;
+}
+
+table.gametable td:nth-child(3)
+{
+	width: 50%;
+}
+
+table.itable td:nth-child(1)
+{
+	width: 30%;
+}
+
+.scorebox
+{
+	text-align: right;
+}
+
+.navigator
+{
+	color: #ff3030;
+	text-shadow: #600000 0 0 .3em, #ffc0d0 0 0 .6em;
+}
+
+.narrator
+{
+	color: #008000;
+	text-shadow: #000000 0 0 .3em, #000000 0 0 .6em, #008000 0 0 .4em, #008000 0 0 1em;
+}
+
+.blevent
+{
+	font-size: 18px;
+	font-family: "Secular One", sans-serif;
+	text-transform: uppercase;
+}
+
+.small
+{
+	font-size: 18px;
+}
+
+.tiny
+{
+	font-family: 'Secular One', sans-serif;
+	font-size: 12px;
+}
+
+.soul
+{
+	color: #ff0000;
+	font-style: italic;
+}
+
+.team1
+{
+	background: #2020d0;
+}
+
+.team2
+{
+	background: #ffffd0;
+	color: #202020;
+}
+a.team2
+{
+	color: #202020;
+}
+
+.team3
+{
+	background: #705030;
+}
+
+.team4
+{
+	color: #ffffff;
+	background: #2080ff;
+}
+a.team4
+{
+	color: #ffffff;
+}
+
+.team5
+{
+	background: #304030;
+}
+
+.team6
+{
+	background: #103080;
+}
+
+.team7
+{
+	background: #707030;
+}
+
+.team8
+{
+	background: #207030;
+}
+
+.team9
+{
+	background: #a06040;
+}
+
+.team10
+{
+	color: #202020;
+	background: #c0c050;
+}
+a.team10
+{
+	color: #202020;
+}
+
+.team11
+{
+	background: #3040ff;
+}
+
+.team12
+{
+	background: #404040;
+}
+
+.team13
+{
+	color: #202020;
+	background: #10c010;
+}
+a.team13
+{
+	color: #202020;
+}
+
+.team14
+{
+	color: #202020;
+	background: #b0b070;
+}
+a.team14
+{
+	color: #202020;
+}
+
+.team15
+{
+	background: #207020;
+}
+
+.team16
+{
+	color: #202020;
+	background: #a0a0a0;
+}
+a.team16
+{
+	color: #202020;
+}
+
+.team17
+{
+	color: #101010;
+	background: #a0a040;
+}
+a.team17
+{
+	color: #101010;
+}
+
+.team18
+{
+	background: #000000;
+}
+
+.team19
+{
+	background: #b03030;
+}
+
+.team20
+{
+	color: #202020;
+	background: #30ff30;
+}
+a.team20
+{
+	color: #202020;
+}
+
